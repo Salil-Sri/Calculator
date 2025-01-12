@@ -32,9 +32,8 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 ## 💬 Feedback
 
-If you have any feedback or suggestions, please reach out to me at [salil-sri@example.com](mailto:salil-sri@example.com).  
-Or connect with me on [GitHub](https://github.com/salil-sri).
+If you have any feedback or suggestions, connect with me on [GitHub](https://github.com/salil-sri).
 
 ---
 
-Made with ❤️ by [Salil](https://github.com/salil-sri)
+Made by [Salil](https://github.com/salil-sri)
